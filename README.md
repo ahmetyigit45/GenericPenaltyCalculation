@@ -22,4 +22,4 @@
 ```
 
 ### SceenShots
-![Optional Text](../ScreenShoot/Ekran_Görüntüsü_1.JPG)
+![Optional Text](https://github.com/ahmetyigit45/GenericPenaltyCalculation/blob/main/ScreenShoot/Ekran_G%C3%B6r%C3%BCnt%C3%BCs%C3%BC_1.JPG?raw=true)
