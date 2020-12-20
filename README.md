@@ -11,3 +11,7 @@
   a.	Hint: Try to use DayOfWeek enumeration of .Net
 5)	Each late business day will be penalized for x amount of money. This amount should be configurable based on country of operation. (DailyPenaltyFee parameter in App.config)
 6)	Penalty will not apply for an allowed amount of days (PenaltyAppliesAfter parameter in App.config)
+
+
+
+![ScreenShoot](Ekran_Görüntüsü_1.JPG)
