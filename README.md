@@ -23,3 +23,5 @@
 
 ### SceenShots
 ![Optional Text](https://github.com/ahmetyigit45/GenericPenaltyCalculation/blob/main/ScreenShoot/Ekran_G%C3%B6r%C3%BCnt%C3%BCs%C3%BC_1.JPG?raw=true)
+![Optional Text](https://github.com/ahmetyigit45/GenericPenaltyCalculation/blob/main/ScreenShoot/Ekran_G%C3%B6r%C3%BCnt%C3%BCs%C3%BC_3.JPG?raw=true)
+![Optional Text](https://github.com/ahmetyigit45/GenericPenaltyCalculation/blob/main/ScreenShoot/Ekran_G%C3%B6r%C3%BCnt%C3%BCs%C3%BC_4.JPG?raw=true)
